@@ -14,11 +14,13 @@ In this project, I conducted an exploratory data analysis of the stock prices of
 •	How did the performance of different banks compare to each other, and to the broader market?
 
 
-
-
 ## Tech Stack
 
 **Programming Language:** Python
 
 **Library:** NumPy, Pandas, Seaborn, Matplotlib, Plotly, and Cufflinks.
 
+
+![BAC_stock](https://github.com/RTNGowda/Exploratory-Financial-Data-Analysis-using-Python/assets/125819360/047ee0bc-1090-4e71-aeed-5985579e4cf7)
+![BAC_BollingerPlot](https://github.com/RTNGowda/Exploratory-Financial-Data-Analysis-using-Python/assets/125819360/6b896a33-00a3-4c63-b8a8-cfe24536bbc1)
+![Morgan Stanely_stock](https://github.com/RTNGowda/Exploratory-Financial-Data-Analysis-using-Python/assets/125819360/de307cde-da3e-4a21-b5ca-c560821d48e1)
